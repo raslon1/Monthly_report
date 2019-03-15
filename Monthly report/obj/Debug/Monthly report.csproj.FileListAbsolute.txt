@@ -1,0 +1,81 @@
+c:\users\admin\documents\visual studio 2015\Projects\Monthly report\Monthly report\bin\Debug\Monthly report.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Monthly report\Monthly report\obj\Debug\Monthly report.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Monthly report\Monthly report\obj\Debug\Monthly_report.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Monthly report\Monthly report\obj\Debug\Monthly_report.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Monthly report\Monthly report\bin\Debug\Monthly report.exe
+c:\users\admin\documents\visual studio 2015\Projects\Monthly report\Monthly report\bin\Debug\Monthly report.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Monthly report\Monthly report\obj\Debug\Monthly report.exe
+c:\users\admin\documents\visual studio 2015\Projects\Monthly report\Monthly report\obj\Debug\Monthly report.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Monthly report\Monthly report\obj\Debug\Monthly_report.Add_companies.resources
+C:\Users\user\Desktop\Monthly report\Monthly report\bin\Debug\Monthly report.exe.config
+C:\Users\user\Desktop\Monthly report\Monthly report\obj\Debug\Monthly report.exe
+C:\Users\user\Desktop\Monthly report\Monthly report\obj\Debug\Monthly report.pdb
+C:\Users\user\Desktop\Monthly report\Monthly report\obj\Debug\Monthly report.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Monthly report\Monthly report\obj\Debug\Monthly_report.Add_companies.resources
+C:\Users\user\Desktop\Monthly report\Monthly report\obj\Debug\Monthly_report.Form1.resources
+C:\Users\user\Desktop\Monthly report\Monthly report\obj\Debug\Monthly_report.Properties.Resources.resources
+C:\Users\user\Desktop\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Monthly report\Monthly report\bin\Debug\Monthly report.exe
+C:\Users\user\Desktop\Monthly report\Monthly report\bin\Debug\Monthly report.pdb
+C:\Users\admin\Desktop\Monthly report\Monthly report\bin\Debug\Monthly report.exe.config
+C:\Users\admin\Desktop\Monthly report\Monthly report\bin\Debug\Monthly report.exe
+C:\Users\admin\Desktop\Monthly report\Monthly report\bin\Debug\Monthly report.pdb
+C:\Users\admin\Desktop\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Monthly report\Monthly report\obj\Debug\Monthly_report.Add_companies.resources
+C:\Users\admin\Desktop\Monthly report\Monthly report\obj\Debug\Monthly_report.Form1.resources
+C:\Users\admin\Desktop\Monthly report\Monthly report\obj\Debug\Monthly_report.Properties.Resources.resources
+C:\Users\admin\Desktop\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Monthly report\Monthly report\obj\Debug\Monthly report.exe
+C:\Users\admin\Desktop\Monthly report\Monthly report\obj\Debug\Monthly report.pdb
+C:\Users\admin\Desktop\Monthly report\Monthly report\obj\Debug\Monthly report.csprojResolveAssemblyReference.cache
+C:\Users\admin\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\bin\Debug\Monthly report.exe.config
+C:\Users\admin\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.ResolveComReference.cache
+C:\Users\admin\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.exe
+C:\Users\admin\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.pdb
+C:\Users\admin\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\bin\Debug\Monthly report.exe
+C:\Users\admin\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\bin\Debug\Monthly report.pdb
+C:\Users\admin\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.csprojResolveAssemblyReference.cache
+C:\Users\admin\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly_report.Add_companies.resources
+C:\Users\admin\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly_report.Form1.resources
+C:\Users\admin\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly_report.Properties.Resources.resources
+C:\Users\admin\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.GenerateResource.Cache
+D:\YandexDisk\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\bin\Debug\Monthly report.exe.config
+D:\YandexDisk\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.ResolveComReference.cache
+D:\YandexDisk\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.exe
+D:\YandexDisk\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.pdb
+D:\YandexDisk\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\bin\Debug\Monthly report.exe
+D:\YandexDisk\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\bin\Debug\Monthly report.pdb
+D:\YandexDisk\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.csprojResolveAssemblyReference.cache
+D:\YandexDisk\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly_report.Add_companies.resources
+D:\YandexDisk\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly_report.Form1.resources
+D:\YandexDisk\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly_report.Properties.Resources.resources
+D:\YandexDisk\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.GenerateResource.Cache
+D:\яндекс\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\bin\Debug\Monthly report.exe.config
+D:\яндекс\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.ResolveComReference.cache
+D:\яндекс\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.exe
+D:\яндекс\YandexDisk\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.pdb
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\bin\Debug\Monthly report.exe.config
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\bin\Debug\Monthly report.exe
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\bin\Debug\Monthly report.pdb
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly_report.Add_companies.resources
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly_report.Form1.resources
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly_report.Properties.Resources.resources
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.exe
+C:\Users\Admin\Desktop\проекты\Проект №3(Excel otchet)\Обновление\Monthly report\Monthly report\obj\Debug\Monthly report.pdb
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\bin\Debug\Monthly report.exe.config
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\bin\Debug\Monthly report.exe
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\bin\Debug\Monthly report.pdb
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\obj\Debug\Monthly report.csprojResolveAssemblyReference.cache
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.ResolveComReference.cache
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\obj\Debug\Monthly_report.Add_companies.resources
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\obj\Debug\Monthly_report.Form1.resources
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\obj\Debug\Monthly_report.Properties.Resources.resources
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.GenerateResource.Cache
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\obj\Debug\Monthly report.csproj.CoreCompileInputs.cache
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\obj\Debug\Monthly report.exe
+C:\Users\Admin\YandexDisk\projects\Проект №3(Excel otchet)\Обновление(3 версия)\Monthly report\Monthly report\obj\Debug\Monthly report.pdb

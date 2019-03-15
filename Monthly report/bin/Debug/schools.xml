@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<institutions>
+  <institution>
+    <company>МОБУ СОШ с. Абубакирово</company>
+    <numer1>20100020020</numer1>
+    <numer2>21100020020</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МБОУ СОШ с. Большеабишево</company>
+    <numer1>20100020030</numer1>
+    <numer2>21100020030</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МБОУ СОШ с. Ивановка</company>
+    <numer1>20100020040</numer1>
+    <numer2>21100020040</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МОБУ СОШ с. Макан</company>
+    <numer1>20100020050</numer1>
+    <numer2>21100020050</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МОБУ СОШ д. Мамбетово</company>
+    <numer1>20100020060</numer1>
+    <numer2>21100020060</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МБОУ СОШ с. Подольск</company>
+    <numer1>20100020070</numer1>
+    <numer2>21100020070</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МОБУ СОШ с. Самарское</company>
+    <numer1>20100020080</numer1>
+    <numer2>21100020080</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МБОУ СОШ с. Татыр-Узяк</company>
+    <numer1>20100020090</numer1>
+    <numer2>21100020090</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МБОУ СОШ с. Уфимский</company>
+    <numer1>20100020100</numer1>
+    <numer2>21100020100</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МБОУ СОШ с. Целинное</company>
+    <numer1>20100020110</numer1>
+    <numer2>21100020110</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МОБУ СОШ с. Новый Зирган</company>
+    <numer1>20100020120</numer1>
+    <numer2>21100020120</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МОБУ ООШ с. Степной</company>
+    <numer1>20100020130</numer1>
+    <numer2>21100020130</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МОБУ СОШ д. Янтышево</company>
+    <numer1>20100020140</numer1>
+    <numer2>21100020140</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МОБУ ООШ д. Валитово</company>
+    <numer1>20100020150</numer1>
+    <numer2>21100020150</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Сулпылар" с. Абубакирово</company>
+    <numer1>20100020160</numer1>
+    <numer2>21100020160</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Шишмэкэй" с. Антинган</company>
+    <numer1>20100020170</numer1>
+    <numer2>21100020170</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Кояшкай" с. Алибаевское</company>
+    <numer1>20100020180</numer1>
+    <numer2>21100020180</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Йэйгор" с. Байгускарово</company>
+    <numer1>20100020190</numer1>
+    <numer2>21100020190</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Йэйгор" с. Большеабишево</company>
+    <numer1>20100020200</numer1>
+    <numer2>21100020200</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Акбузат" д. Бузавлык</company>
+    <numer1>20100020210</numer1>
+    <numer2>21100020210</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Умырзая" д. Валитово</company>
+    <numer1>20100020220</numer1>
+    <numer2>21100020220</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Аленушка" д. Воздвиженка</company>
+    <numer1>20100020230</numer1>
+    <numer2>21100020230</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Улыбка" с. Ивановка</company>
+    <numer1>20100020240</numer1>
+    <numer2>21100020240</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Лэйсэн" д. Исянгильдино </company>
+    <numer1>20100020250</numer1>
+    <numer2>21100020240</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Миляшкэй" с. Макан </company>
+    <numer1>20100020260</numer1>
+    <numer2>21100020250</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Лэйсэн" д. Мамбетово </company>
+    <numer1>20100020270</numer1>
+    <numer2>21100020260</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Солнышко" с. Новый Зирган</company>
+    <numer1>20100020280</numer1>
+    <numer2>21100020270</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Солнышко" с. Подольск</company>
+    <numer1>20100020300</numer1>
+    <numer2>21100020300</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Ак сэскэ" д. Сагитово </company>
+    <numer1>20100020310</numer1>
+    <numer2>21100020310</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Ляйсан" с. Садовый</company>
+    <numer1>20100020320</numer1>
+    <numer2>21100020320</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Аленушка" с. Самарское</company>
+    <numer1>20100020330</numer1>
+    <numer2>21100020330</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Айгуль" с. Степной</company>
+    <numer1>20100020340</numer1>
+    <numer2>21100020340</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Айгуль" д. Таштугай</company>
+    <numer1>20100020350</numer1>
+    <numer2>21100020350</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Буратино" с. Татыр-Узяк </company>
+    <numer1>20100020360</numer1>
+    <numer2>21100020360</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Тамсылар" с. Уфимский</company>
+    <numer1>20100020370</numer1>
+    <numer2>21100020370</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Теремок" с. Федоровка</company>
+    <numer1>20100020380</numer1>
+    <numer2>21100020380</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Батыр" д. Хворостянское</company>
+    <numer1>20100020390</numer1>
+    <numer2>21100020390</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Гульдар" с. Целинное</company>
+    <numer1>20100020400</numer1>
+    <numer2>21100020400</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Кояшкай" д. Янтышево</company>
+    <numer1>20100020410</numer1>
+    <numer2>21100020410</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МДОБУ "Карлугас" д. Илячево </company>
+    <numer1>20100020420</numer1>
+    <numer2>21100020420</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МБДОУ Детский сад №3 "Шатлык" села Акъяр</company>
+    <numer1>20100020440</numer1>
+    <numer2>21100020440</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МБДОУ "Гэрлэуек"с. Первомайское</company>
+    <numer1>20100020450</numer1>
+    <numer2>21100020450</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МБОУ ООШ с. Галиахметово</company>
+    <numer1>20100020460</numer1>
+    <numer2>21100020460</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МБОУ ООШ д. Исянгильдино</company>
+    <numer1>20100020470</numer1>
+    <numer2>21100020470</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МКОУ ООШ д. Таштугай</company>
+    <numer1>20100020480</numer1>
+    <numer2>21100020480</numer2>
+    <type1>Бюджетный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МАОУ СОШ №1 с.  Акъяр</company>
+    <numer1>30100030010</numer1>
+    <numer2>31100030010</numer2>
+    <type1>Автономный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МАОУ СОШ №2 с. Акъяр</company>
+    <numer1>30100030020</numer1>
+    <numer2>31100030020</numer2>
+    <type1>Автономный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МАОУ СОШ с. Бурибай</company>
+    <numer1>30100030030</numer1>
+    <numer2>31100030030</numer2>
+    <type1>Автономный</type1>
+    <type2>Школа</type2>
+  </institution>
+  <institution>
+    <company>МАДОУ ЦРР ДС "Йэйгор" с. Акъяр</company>
+    <numer1>30100030040</numer1>
+    <numer2>31100030040</numer2>
+    <type1>Автономный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МАДОУ ЦРР ДС "Бэпембэ" с. Акъяр</company>
+    <numer1>30100030050</numer1>
+    <numer2>31100030050</numer2>
+    <type1>Автономный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>МАДОУ "Солнышко" с. Бурибай </company>
+    <numer1>30100030060</numer1>
+    <numer2>31100030060</numer2>
+    <type1>Автономный</type1>
+    <type2>Детский сад</type2>
+  </institution>
+  <institution>
+    <company>ДЮСШ</company>
+    <numer1>20100020430</numer1>
+    <numer2>21100020430</numer2>
+    <type1>Бюджетный</type1>
+    <type2>ПДО</type2>
+  </institution>
+  <institution>
+    <company>Аксарлак</company>
+    <numer1>30100030080</numer1>
+    <numer2>31100030080</numer2>
+    <type1>Автономный</type1>
+    <type2>ПДО</type2>
+  </institution>
+  <institution>
+    <company>ДДТ</company>
+    <numer1>30100030070</numer1>
+    <numer2>31100030070</numer2>
+    <type1>Автономный</type1>
+    <type2>ПДО</type2>
+  </institution>
+</institutions>
